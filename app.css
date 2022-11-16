@@ -1,0 +1,38 @@
+body {
+    display: flex;
+    height: 100vh;
+    margin: 0px;
+    align-items: center;
+    justify-content: center;
+}
+
+.container {
+    max-width: 768px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #9ee5f1;
+    padding: 40px 40px;
+    font-family: sans-serif;
+    border-radius: 15px;
+}
+
+hr {
+    border: 1px solid black;
+}
+
+.image {
+    max-width: 280px;
+    width: 100%;
+    display: block;
+    margin: 0 auto;
+}
+
+h3 {
+    margin-bottom: 0px;
+}
+
+h4 {
+    margin-top: 5px;
+    font-weight: normal;
+    margin-bottom: 10px;
+}
